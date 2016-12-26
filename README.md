@@ -1,2 +1,1 @@
-# linalg
-linalg
+# Linear Algebra Implementations to facilitate learning
